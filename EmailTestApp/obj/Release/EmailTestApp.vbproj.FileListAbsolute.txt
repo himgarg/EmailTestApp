@@ -1,0 +1,10 @@
+D:\ProjectWork\EmailTestApp\EmailTestApp\bin\Release\EmailTestApp.exe
+D:\ProjectWork\EmailTestApp\EmailTestApp\bin\Release\EmailTestApp.pdb
+D:\ProjectWork\EmailTestApp\EmailTestApp\bin\Release\EmailTestApp.xml
+D:\ProjectWork\EmailTestApp\EmailTestApp\obj\Release\ResolveAssemblyReference.cache
+D:\ProjectWork\EmailTestApp\EmailTestApp\obj\Release\EmailTestApp.Form1.resources
+D:\ProjectWork\EmailTestApp\EmailTestApp\obj\Release\EmailTestApp.Resources.resources
+D:\ProjectWork\EmailTestApp\EmailTestApp\obj\Release\EmailTestApp.vbproj.GenerateResource.Cache
+D:\ProjectWork\EmailTestApp\EmailTestApp\obj\Release\EmailTestApp.exe
+D:\ProjectWork\EmailTestApp\EmailTestApp\obj\Release\EmailTestApp.xml
+D:\ProjectWork\EmailTestApp\EmailTestApp\obj\Release\EmailTestApp.pdb
